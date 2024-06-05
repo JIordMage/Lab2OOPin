@@ -12,4 +12,4 @@
 
 Редирект страниц  через сервлеты
 
-2024 ![image](https://github.com/JIordMage/Lab2OOPin/assets/125376926/3de994b3-a1ed-4056-b4a2-bb94a0f41dc6)
+2024 
